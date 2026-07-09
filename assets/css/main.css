@@ -816,6 +816,217 @@ h3 { margin: 0 0 .5rem; color: var(--green-950); font-size: 1.08rem; line-height
 .cinema-video-card .video-meta h3,
 .cinema-video-card .video-meta p { color: #fff; }
 .cinema-video-card .video-meta p { color: rgba(255,255,255,.72); }
+.cinema-bento,
+.room-bento,
+.facility-deck,
+.cinema-stats,
+.journey-rail,
+.testimonial-film,
+.pricing-lens {
+  position: relative;
+  z-index: 2;
+}
+.cinema-bento {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: .85rem;
+  align-self: center;
+}
+.cinema-bento article,
+.cinema-stats article,
+.room-card,
+.facility-deck article,
+.journey-rail li,
+.testimonial-film article,
+.pricing-lens article {
+  border: 1px solid rgba(255,255,255,.18);
+  border-radius: 8px;
+  background: rgba(255,255,255,.1);
+  box-shadow: 0 24px 80px rgba(0,0,0,.2);
+  backdrop-filter: blur(18px);
+}
+.cinema-bento article {
+  min-height: 12rem;
+  padding: clamp(1rem, 2vw, 1.35rem);
+}
+.cinema-bento span {
+  display: inline-grid;
+  place-items: center;
+  width: 2.6rem;
+  height: 2.6rem;
+  margin-bottom: 1rem;
+  border-radius: 999px;
+  background: rgba(238,243,237,.14);
+}
+.cinema-bento h3,
+.room-card h3,
+.testimonial-film strong,
+.pricing-lens strong {
+  margin: 0 0 .45rem;
+  color: #fff;
+}
+.cinema-bento p,
+.room-card p,
+.journey-rail p,
+.testimonial-film p,
+.pricing-lens span {
+  margin: 0;
+  color: rgba(255,255,255,.72);
+}
+.scene-stats::before {
+  background: radial-gradient(circle at 70% 35%, rgba(240,216,137,.18), transparent 26rem), linear-gradient(135deg, #111812, #2e3a2f 58%, #0e1510);
+}
+.cinema-stats {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: .9rem;
+  align-self: center;
+}
+.cinema-stats article {
+  min-height: 13rem;
+  padding: clamp(1.1rem, 2.4vw, 1.8rem);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+.cinema-stats strong {
+  display: block;
+  color: var(--gold);
+  font-size: clamp(2.4rem, 6vw, 5.8rem);
+  line-height: .88;
+  letter-spacing: 0;
+}
+.cinema-stats span {
+  display: block;
+  margin-top: 1rem;
+  color: rgba(255,255,255,.74);
+  font-weight: 800;
+}
+.scene-rooms::before {
+  background: radial-gradient(circle at 82% 20%, rgba(238,243,237,.12), transparent 20rem), linear-gradient(135deg, #121a15, #25352a 52%, #0f1711);
+}
+.room-bento {
+  display: grid;
+  grid-template-columns: 1.15fr .85fr;
+  gap: .9rem;
+  align-self: center;
+}
+.room-card {
+  overflow: hidden;
+}
+.room-card img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  background: rgba(238,243,237,.12);
+}
+.room-card h3,
+.room-card p {
+  padding-inline: 1rem;
+}
+.room-card h3 { padding-top: 1rem; }
+.room-card p { padding-bottom: 1rem; }
+.facility-deck {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: .8rem;
+  align-self: center;
+}
+.facility-deck article {
+  display: flex;
+  align-items: center;
+  gap: .65rem;
+  min-height: 5.4rem;
+  padding: 1rem;
+  color: #fff;
+  font-weight: 900;
+}
+.facility-deck span {
+  color: rgba(255,255,255,.82);
+}
+.journey-rail {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: .75rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  align-self: center;
+}
+.journey-rail li {
+  min-height: 12rem;
+  padding: 1rem;
+}
+.journey-rail span {
+  display: inline-flex;
+  margin-bottom: 2.2rem;
+  color: var(--gold);
+  font-size: .8rem;
+  font-weight: 900;
+  letter-spacing: .14em;
+}
+.journey-rail strong {
+  display: block;
+  margin-bottom: .45rem;
+  color: #fff;
+}
+.testimonial-film {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: .9rem;
+  align-self: center;
+}
+.testimonial-film article {
+  min-height: 16rem;
+  padding: clamp(1.1rem, 2vw, 1.6rem);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.testimonial-film p {
+  font-size: clamp(1.15rem, 2vw, 1.65rem);
+  line-height: 1.35;
+}
+.scene-gallery::before {
+  background: linear-gradient(135deg, #0f1711, #27382d 48%, #111812);
+}
+.gallery-video {
+  position: relative;
+  z-index: 2;
+  align-self: center;
+  max-width: 680px;
+  background: rgba(255,255,255,.1);
+  border-color: rgba(255,255,255,.2);
+  box-shadow: 0 35px 110px rgba(0,0,0,.36);
+  backdrop-filter: blur(18px);
+}
+.gallery-video .video-meta h3,
+.gallery-video .video-meta p {
+  color: #fff;
+}
+.gallery-video .video-meta p {
+  color: rgba(255,255,255,.72);
+}
+.pricing-lens {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: .75rem;
+  align-self: center;
+}
+.pricing-lens article {
+  min-height: 10rem;
+  padding: 1rem;
+}
+.pricing-lens strong {
+  display: block;
+  color: var(--gold);
+  font-size: clamp(1.45rem, 3vw, 2.4rem);
+}
+.pricing-lens .button {
+  grid-column: 1 / -1;
+  justify-self: start;
+}
 .scene-forest::before {
   background: linear-gradient(135deg, #101913, #2e3a2f 55%, #0f1711);
 }
@@ -937,6 +1148,22 @@ h3 { margin: 0 0 .5rem; color: var(--green-950); font-size: 1.08rem; line-height
 @media (max-width: 920px) {
   .cinema-hero { grid-template-columns: 1fr; }
   .cinema-video-card { width: min(100%, 560px); }
+  .cinema-bento,
+  .cinema-stats,
+  .room-bento,
+  .facility-deck,
+  .journey-rail,
+  .testimonial-film,
+  .pricing-lens {
+    grid-template-columns: 1fr;
+    width: min(100%, 620px);
+  }
+  .journey-rail li,
+  .cinema-stats article,
+  .cinema-bento article,
+  .testimonial-film article {
+    min-height: auto;
+  }
   .floating-media,
   .analysis-ui,
   .nutrition-table { opacity: .42; right: -12%; width: 72vw; }
@@ -958,6 +1185,43 @@ h3 { margin: 0 0 .5rem; color: var(--green-950); font-size: 1.08rem; line-height
     padding: .45rem;
   }
   .cinema-video-card .video-meta { padding: .75rem .55rem .65rem; }
+  .cinema-bento,
+  .cinema-stats,
+  .room-bento,
+  .facility-deck,
+  .journey-rail,
+  .testimonial-film,
+  .pricing-lens,
+  .gallery-video {
+    width: 100%;
+  }
+  .cinema-bento article,
+  .cinema-stats article,
+  .room-card,
+  .facility-deck article,
+  .journey-rail li,
+  .testimonial-film article,
+  .pricing-lens article {
+    box-shadow: 0 18px 55px rgba(0,0,0,.2);
+  }
+  .cinema-stats strong {
+    font-size: clamp(2.2rem, 14vw, 4.4rem);
+  }
+  .room-card img {
+    aspect-ratio: 16 / 10;
+  }
+  .journey-rail {
+    gap: .55rem;
+  }
+  .journey-rail span {
+    margin-bottom: .9rem;
+  }
+  .testimonial-film p {
+    font-size: 1.08rem;
+  }
+  .pricing-lens .button {
+    width: 100%;
+  }
   .floating-media,
   .analysis-ui,
   .nutrition-table,
