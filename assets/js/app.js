@@ -78,35 +78,46 @@
       });
     });
 
+    function openVideo(card) {
+      const id = card?.dataset.youtubeId || card?.dataset.videoId;
+      const title = card?.querySelector("h3")?.textContent || "HK video";
+      window.HKTracking?.content?.("hk_video_play_click", { video_title: title, has_embed: Boolean(id) });
+      if (!card || card.dataset.loaded === "true" || !id) return;
+
+      const target = card.querySelector(".video-thumb");
+      if (!target) return;
+
+      const iframe = document.createElement("iframe");
+      iframe.src = "https://www.youtube.com/embed/" + encodeURIComponent(id) + "?autoplay=1&rel=0";
+      iframe.title = title;
+      iframe.allow = "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share";
+      iframe.allowFullscreen = true;
+      iframe.loading = "lazy";
+      iframe.referrerPolicy = "strict-origin-when-cross-origin";
+      iframe.style.width = "100%";
+      iframe.style.aspectRatio = "16 / 9";
+      iframe.style.border = "0";
+      iframe.style.borderRadius = "var(--radius)";
+      target.replaceWith(iframe);
+      card.dataset.loaded = "true";
+    }
+
     document.querySelectorAll(".video-card").forEach((card) => {
       const id = card.dataset.youtubeId || card.dataset.videoId;
       const image = card.querySelector(".video-thumb img");
       if (id && image && !image.dataset.staticThumb) {
         image.src = "https://img.youtube.com/vi/" + encodeURIComponent(id) + "/hqdefault.jpg";
       }
-    });
 
-    document.querySelectorAll(".video-thumb").forEach((button) => {
-      button.addEventListener("click", () => {
-        const card = button.closest(".video-card");
-        const id = card?.dataset.youtubeId || card?.dataset.videoId;
-        const title = card?.querySelector("h3")?.textContent || "HK video";
-        window.HKTracking?.content?.("hk_video_play_click", { video_title: title, has_embed: Boolean(id) });
-        if (!card || card.dataset.loaded === "true") return;
-        if (!id) return;
-        const iframe = document.createElement("iframe");
-        iframe.src = "https://www.youtube.com/embed/" + encodeURIComponent(id) + "?autoplay=1";
-        iframe.title = title;
-        iframe.allow = "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share";
-        iframe.allowFullscreen = true;
-        iframe.loading = "lazy";
-        iframe.referrerPolicy = "strict-origin-when-cross-origin";
-        iframe.style.width = "100%";
-        iframe.style.aspectRatio = "16 / 9";
-        iframe.style.border = "0";
-        iframe.style.borderRadius = "var(--radius)";
-        button.replaceWith(iframe);
-        card.dataset.loaded = "true";
+      card.addEventListener("click", (event) => {
+        if (event.target.closest("a")) return;
+        openVideo(card);
+      });
+
+      card.addEventListener("keydown", (event) => {
+        if (event.key !== "Enter" && event.key !== " ") return;
+        event.preventDefault();
+        openVideo(card);
       });
     });
   }
