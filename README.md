@@ -69,3 +69,7 @@ Dil içerikleri `data/tr.json`, `data/en.json`, `data/de.json`, `data/ar.json` i
 ## Video embedleri
 
 `data/videos.json` içindeki `embed_id` alanlarına YouTube video ID'leri girildiğinde video kartları tıklanınca iframe'i lazy-load eder.
+
+## Visual revision
+
+Preview tasariminda RAL 6020 hissine yakin koyu dogal yesil palet, modern sans-serif tipografi, daha dengeli hero oranlari, premium kart yuzeyleri, kontrollu HK sarisi CTA vurgusu ve mobil kirilimlar icin tasma onleyici responsive iyilestirmeler uygulanmistir.
