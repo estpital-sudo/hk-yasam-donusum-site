@@ -1,0 +1,65 @@
+name: Deploy Preview
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+concurrency:
+  group: hk-preview-deploy
+  cancel-in-progress: true
+
+jobs:
+  deploy-preview:
+    name: Upload static site to hk-preview
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Validate preview target
+        env:
+          NATRO_PREVIEW_PATH: ${{ secrets.NATRO_PREVIEW_PATH }}
+        run: |
+          if [ -z "$NATRO_PREVIEW_PATH" ]; then
+            echo "NATRO_PREVIEW_PATH is required."
+            exit 1
+          fi
+
+          case "$NATRO_PREVIEW_PATH" in
+            hk-preview|hk-preview/|*/hk-preview|*/hk-preview/)
+              ;;
+            *)
+              echo "NATRO_PREVIEW_PATH must point to hk-preview."
+              exit 1
+              ;;
+          esac
+
+      - name: Prepare preview payload
+        run: |
+          mkdir -p preview-dist
+          cp index.html 404.html config.js preview-dist/
+          cp -R assets data tr en de ar preview-dist/
+
+      - name: Deploy preview over FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.NATRO_FTP_HOST }}
+          username: ${{ secrets.NATRO_FTP_USERNAME }}
+          password: ${{ secrets.NATRO_FTP_PASSWORD }}
+          port: ${{ secrets.NATRO_FTP_PORT }}
+          local-dir: ./preview-dist/
+          server-dir: ${{ secrets.NATRO_PREVIEW_PATH }}
+          exclude: |
+            **/.git*
+            **/.git*/**
+            **/.github/**
+            **/internal-notes/**
+            README.md
+
+      - name: Confirm preview deploy
+        run: echo "Deployed to hk-preview"
