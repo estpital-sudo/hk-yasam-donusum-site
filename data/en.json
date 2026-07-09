@@ -1,0 +1,289 @@
+{
+  "language": "en",
+  "dir": "ltr",
+  "nav": {
+    "home": "Home",
+    "program": "Program",
+    "facility": "Facility",
+    "rooms": "Rooms",
+    "activities": "Activities",
+    "daily": "Daily Flow",
+    "stories": "Success Stories",
+    "international": "International Guests",
+    "media": "Media",
+    "books": "Books",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "cta": {
+    "quiz": "Start Pre-Assessment",
+    "quizShort": "Start Quiz",
+    "whatsapp": "Ask on WhatsApp",
+    "call": "Call",
+    "facility": "Explore Facility",
+    "rooms": "Explore Rooms",
+    "contact": "Get Information",
+    "home": "Back to Home"
+  },
+  "meta": {
+    "home": "A residential wellness and weight management program in nature with accommodation, movement, nutrition routine and social motivation on one campus.",
+    "program": "Learn how the HK residential program works from pre-consultation to daily follow-up, with a structure shaped around each guest.",
+    "facility": "Explore HK's pool, hammam, sauna, gym, social areas and nature-connected campus spaces.",
+    "rooms": "Review HK room options and how availability details are shared during pre-consultation.",
+    "activities": "Learn about nature walks, fitness, boot camp, pool exercises and group motivation activities.",
+    "daily": "A sample HK daily flow with movement, meals, rest, social activities and follow-up blocks.",
+    "stories": "HK participant stories are presented as individual experiences with clear result variability notes.",
+    "international": "Multilingual pre-information for guests traveling to Turkey for a residential program in nature.",
+    "media": "Photo and video gallery structure for facility, rooms, sport, nature, events and stories.",
+    "books": "Editorial grid for HK publications and books, focused on trust and expertise.",
+    "faq": "Frequently asked questions about program duration, rooms, suitability, pricing and results.",
+    "contact": "Contact HK for a pre-consultation via WhatsApp, phone or a short form."
+  },
+  "hero": {
+    "eyebrow": "Residential program in nature",
+    "title": "A residential wellness and weight management program in nature",
+    "body": "At HK, accommodation, exercise, nutrition routine, social facilities, nature activities and follow-up are planned within the same campus. Complete the short pre-assessment to learn which program duration may suit you.",
+    "imageAlt": "HK campus life in nature"
+  },
+  "sections": {
+    "experienceTitle": "What is the HK experience?",
+    "audienceTitle": "Who is it for?",
+    "timelineTitle": "How the program works",
+    "atmosphereTitle": "Camp atmosphere",
+    "facilityTitle": "Facility and social areas",
+    "roomsTitle": "Rooms",
+    "activitiesTitle": "Exercise and activities",
+    "storiesTitle": "Participant stories",
+    "internationalTitle": "A residential camp experience in Turkey",
+    "mediaTitle": "Media",
+    "faqTitle": "Frequently asked questions",
+    "finalTitle": "Learn the program duration that may suit you",
+    "finalBody": "Complete the short pre-assessment. Our team can inform you based on your goal, current situation and planned dates."
+  },
+  "experience": [
+    [
+      "Residential camp structure",
+      "Accommodation, daily rhythm and social facilities are part of the same center."
+    ],
+    [
+      "Movement and exercise",
+      "Exercise intensity is shaped around level, goal and program plan."
+    ],
+    [
+      "Nutrition routine and follow-up",
+      "The stay supports a more structured routine during the program."
+    ],
+    [
+      "Social motivation",
+      "Nature, group energy and camp activities support the process."
+    ]
+  ],
+  "audience": [
+    "People who want to lose weight",
+    "People who struggle to build routine alone",
+    "People who want a controlled start",
+    "People building movement and nutrition habits",
+    "People seeking a social camp experience in nature"
+  ],
+  "timeline": [
+    "Pre-consultation",
+    "Arrival and welcome",
+    "Initial assessment",
+    "Daily movement and nutrition rhythm",
+    "On-campus follow-up",
+    "Social activities",
+    "Departure and after-stay suggestions"
+  ],
+  "facility": [
+    [
+      "Indoor swimming pool",
+      "A social facility area supporting movement, rest and recovery."
+    ],
+    [
+      "Hammam and sauna",
+      "Spaces reserved for relaxation within the camp rhythm."
+    ],
+    [
+      "Gym",
+      "An indoor training environment for equipment-based and bodyweight work."
+    ],
+    [
+      "Social areas",
+      "Shared spaces that make the camp feel broader than exercise alone."
+    ],
+    [
+      "Nature walking routes",
+      "Outdoor routes used for movement and motivation."
+    ],
+    [
+      "Rest areas",
+      "Quiet corners for recovery between program blocks."
+    ]
+  ],
+  "activities": [
+    [
+      "Personal exercise",
+      "Individual work shaped by level and goal."
+    ],
+    [
+      "Fitness camp / boot camp",
+      "Movement blocks built around group energy and discipline."
+    ],
+    [
+      "Individual medical training",
+      "A controlled exercise approach evaluated after pre-consultation for specific needs."
+    ],
+    [
+      "Nature walks",
+      "Outdoor movement around the campus environment."
+    ],
+    [
+      "Pool exercises",
+      "A supportive option for lower-impact movement days."
+    ],
+    [
+      "Group motivation activities",
+      "Activities carrying social connection, enjoyment and structure."
+    ]
+  ],
+  "dailyFlow": [
+    [
+      "Morning movement",
+      "The day may start with a movement block adjusted to the plan."
+    ],
+    [
+      "Breakfast and routine",
+      "Meals are placed within the program flow according to needs."
+    ],
+    [
+      "Exercise blocks",
+      "Indoor, outdoor or group sessions may be included during the day."
+    ],
+    [
+      "Rest and social time",
+      "The pace balances recovery and social motivation."
+    ],
+    [
+      "Evening flow",
+      "The day may close with walks, conversation, activities or follow-up notes."
+    ]
+  ],
+  "faq": [
+    [
+      "Is the program the same for everyone?",
+      "No. The structure is evaluated according to consultation, goals, health status, stay duration and movement level."
+    ],
+    [
+      "How many days should I stay?",
+      "7, 14, 21 and 30-day options can be discussed. The suitable duration varies by person."
+    ],
+    [
+      "Can I join without a sports background?",
+      "Yes, starting level is reviewed during consultation and intensity is planned accordingly."
+    ],
+    [
+      "Can people with health issues join?",
+      "Special health situations are reviewed during pre-consultation and after necessary information is shared."
+    ],
+    [
+      "How does the daily flow work?",
+      "It includes movement, nutrition, rest and social activity blocks; the flow can vary by person and season."
+    ],
+    [
+      "What are the rooms like?",
+      "There are different room types. Availability and details are shared during consultation; room preference is not part of the quiz."
+    ],
+    [
+      "How does the process work for international guests?",
+      "Multilingual pre-information is provided; transport, accommodation and program details are clarified in consultation."
+    ],
+    [
+      "How is pricing determined?",
+      "Pricing depends on stay duration, room type, dates and program structure, and is shared during consultation."
+    ],
+    [
+      "What happens after the pre-assessment?",
+      "Our team reviews your information and calls you about a suitable program process."
+    ],
+    [
+      "Are results guaranteed?",
+      "No. Results vary according to health history, stay duration, adherence and lifestyle habits."
+    ]
+  ],
+  "quiz": {
+    "title": "60-second pre-assessment",
+    "intro": "Answer a few questions. The HK team can contact you about program duration, camp process and details that may fit your needs.",
+    "progress": "Step",
+    "back": "Back",
+    "next": "Next",
+    "submit": "Send Pre-Assessment",
+    "close": "Close",
+    "required": "Please complete this field.",
+    "resultTitle": "Your pre-assessment has been received.",
+    "resultBody": "The HK team will contact you to share information about program duration, camp process and details according to your goal and current situation.",
+    "whatsapp": "Continue on WhatsApp",
+    "home": "Back to Home",
+    "bmiNote": "This information is only added to pre-consultation preparation.",
+    "consent": "I have read the privacy and communication consent text and agree to be contacted.",
+    "steps": {
+      "goal": [
+        "What is your goal?",
+        [
+          "Lose weight",
+          "Improve fitness",
+          "Build a healthier lifestyle routine",
+          "Gain motivation and discipline",
+          "Make a controlled start"
+        ]
+      ],
+      "duration": [
+        "How much time are you considering?",
+        [
+          "7 days",
+          "14 days",
+          "21 days",
+          "30 days",
+          "Not sure yet"
+        ]
+      ],
+      "metrics": "Age / height / weight",
+      "activity": [
+        "What is your daily activity level?",
+        [
+          "Sedentary",
+          "I walk occasionally",
+          "I exercise regularly",
+          "I have difficulty moving because of weight"
+        ]
+      ],
+      "timing": [
+        "When would you like information / to join?",
+        [
+          "This week",
+          "This month",
+          "Within 1-3 months",
+          "I only want information"
+        ]
+      ],
+      "region": [
+        "Where would you travel from?",
+        [
+          "Turkey",
+          "Europe",
+          "Middle East",
+          "Other"
+        ]
+      ],
+      "contact": "Contact details"
+    },
+    "labels": {
+      "age": "Age",
+      "height": "Height (cm)",
+      "weight": "Weight (kg)",
+      "name": "Full name",
+      "phone": "Phone / WhatsApp",
+      "city_country": "Country / city",
+      "preferred_language": "Preferred language"
+    }
+  }
+}

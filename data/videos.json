@@ -1,0 +1,74 @@
+[
+  {
+    "key": "campus-drone",
+    "category": "facility",
+    "title": {
+      "tr": "Kampüs ve doğa görüntüleri",
+      "en": "Campus and nature footage",
+      "de": "Campus- und Naturaufnahmen",
+      "ar": "لقطات الحرم والطبيعة"
+    },
+    "embed_id": "",
+    "thumbnail": "assets/img/placeholders/video-thumb.svg"
+  },
+  {
+    "key": "success-stories",
+    "category": "stories",
+    "title": {
+      "tr": "Katılımcı hikayeleri",
+      "en": "Participant stories",
+      "de": "Teilnehmergeschichten",
+      "ar": "قصص المشاركين"
+    },
+    "embed_id": "",
+    "thumbnail": "assets/img/placeholders/video-thumb.svg"
+  },
+  {
+    "key": "room-tour",
+    "category": "rooms",
+    "title": {
+      "tr": "Oda tanıtımları",
+      "en": "Room tours",
+      "de": "Zimmervorstellungen",
+      "ar": "جولات الغرف"
+    },
+    "embed_id": "",
+    "thumbnail": "assets/img/placeholders/video-thumb.svg"
+  },
+  {
+    "key": "step-festival",
+    "category": "events",
+    "title": {
+      "tr": "Adım festivali ve motivasyon",
+      "en": "Step festival and motivation",
+      "de": "Schritt-Event und Motivation",
+      "ar": "فعالية الخطوات والتحفيز"
+    },
+    "embed_id": "",
+    "thumbnail": "assets/img/placeholders/video-thumb.svg"
+  },
+  {
+    "key": "fitness",
+    "category": "sport",
+    "title": {
+      "tr": "Spor salonu ve grup egzersizi",
+      "en": "Gym and group exercise",
+      "de": "Fitnessraum und Gruppentraining",
+      "ar": "النادي والتمارين الجماعية"
+    },
+    "embed_id": "",
+    "thumbnail": "assets/img/placeholders/video-thumb.svg"
+  },
+  {
+    "key": "nature-walks",
+    "category": "nature",
+    "title": {
+      "tr": "Doğa yürüyüşleri",
+      "en": "Nature walks",
+      "de": "Naturwanderungen",
+      "ar": "المشي في الطبيعة"
+    },
+    "embed_id": "",
+    "thumbnail": "assets/img/placeholders/video-thumb.svg"
+  }
+]

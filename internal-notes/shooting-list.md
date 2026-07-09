@@ -1,0 +1,23 @@
+# HK Çekim Listesi
+
+- Ana giriş / tabela
+- Drone veya yüksek açı kampüs görüntüsü
+- Standart oda
+- Comfort Plus / Standart Plus oda
+- Suit oda
+- Teras oda
+- Bungalow / Ağaç Ev
+- Aile odası
+- Banyo / mini mutfak / balkon detayları
+- Spor salonu
+- Havuz
+- Hamam / sauna
+- Yemek alanı
+- Örnek öğünler
+- Doğa yürüyüş yolu
+- Grup egzersizi
+- PT birebir çalışma
+- Sosyal alanlar
+- Ekip tanıtımı
+- Günlük program panosu
+- İzinli başarı hikayesi videosu

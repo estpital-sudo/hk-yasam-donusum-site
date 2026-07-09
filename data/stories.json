@@ -1,0 +1,75 @@
+[
+  {
+    "key": "ezgi",
+    "name": "Ezgi",
+    "result": {
+      "tr": "3 ayda 30 kilo",
+      "en": "30 kg in 3 months",
+      "de": "30 kg in 3 Monaten",
+      "ar": "30 كغ خلال 3 أشهر"
+    },
+    "source": "https://hk.com.tr/zayiflayanlar/ezginin-3-ayda-30-kilo-zayiflama-basarisi/",
+    "summary": {
+      "tr": "Ezgi'nin kamp süreci; düzen, motivasyon ve sosyal destekle ilerleyen kişisel bir dönüşüm deneyimi olarak özetlenir.",
+      "en": "Ezgi's stay is presented as a personal transformation experience shaped by routine, motivation and social support.",
+      "de": "Ezgi's Aufenthalt wird als persönliche Veränderung mit Struktur, Motivation und sozialer Unterstützung zusammengefasst.",
+      "ar": "تقدم تجربة إزجي كرحلة شخصية اعتمدت على النظام والتحفيز والدعم الاجتماعي."
+    }
+  },
+  {
+    "key": "ali-emir",
+    "name": "Ali Emir",
+    "result": {
+      "tr": "31 kilo",
+      "en": "31 kg",
+      "de": "31 kg",
+      "ar": "31 كغ"
+    },
+    "source": "https://hk.com.tr/zayiflayanlar/ali-emir-31-kilo-zayifladi-ve-kaderini-degistirdi/",
+    "summary": {
+      "tr": "Ali Emir'in hikayesi, önceki deneyimin ardından yeniden düzen kurma ve kamp ortamından destek alma odağında aktarılır.",
+      "en": "Ali Emir's story focuses on rebuilding structure after a previous attempt and benefiting from the camp environment.",
+      "de": "Ali Emirs Geschichte beschreibt, wie er nach früheren Erfahrungen neue Struktur und Unterstützung im Camp fand.",
+      "ar": "تركز قصة علي أمير على إعادة بناء النظام والاستفادة من بيئة المخيم الداعمة."
+    }
+  },
+  {
+    "key": "sukru",
+    "name": "Şükrü",
+    "result": {
+      "tr": "2 ayda 26,5 kilo",
+      "en": "26.5 kg in 2 months",
+      "de": "26,5 kg in 2 Monaten",
+      "ar": "26.5 كغ خلال شهرين"
+    },
+    "source": "https://hk.com.tr/zayiflayanlar/sukru2-ayda-265-kilo-zayifladi-ve-kaderini-degistirdi/",
+    "summary": {
+      "tr": "Şükrü'nün deneyimi, programın hareket, eğlence ve günlük disiplinle birleşen sosyal tarafını gösterir.",
+      "en": "Şükrü's experience highlights the social side of the program, combining movement, enjoyment and daily discipline.",
+      "de": "Şükrüs Erfahrung zeigt die soziale Seite des Programms mit Bewegung, Freude und täglicher Struktur.",
+      "ar": "تبرز تجربة شكري الجانب الاجتماعي للبرنامج مع الحركة والمتعة والانضباط اليومي."
+    }
+  },
+  {
+    "key": "gallery-58",
+    "name": {
+      "tr": "58 kilo verme hikayesi",
+      "en": "58 kg story",
+      "de": "58-kg-Geschichte",
+      "ar": "قصة 58 كغ"
+    },
+    "result": {
+      "tr": "58 kilo",
+      "en": "58 kg",
+      "de": "58 kg",
+      "ar": "58 كغ"
+    },
+    "source": "https://hk.com.tr/zayiflayanlar/zayiflama-kampinda-58-kilo-verme-basarisi/",
+    "summary": {
+      "tr": "Galeri kaynaklı bu hikaye, yalnızca kişisel katılımcı deneyimi olarak ve sonuçların değişebileceği notuyla sunulur.",
+      "en": "This gallery-sourced story is shown only as an individual participant experience with a clear variability note.",
+      "de": "Diese Galeriegeschichte wird nur als persönliche Erfahrung mit deutlichem Hinweis auf unterschiedliche Ergebnisse gezeigt.",
+      "ar": "تعرض هذه القصة من المعرض كتجربة فردية فقط مع توضيح أن النتائج تختلف من شخص لآخر."
+    }
+  }
+]

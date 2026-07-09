@@ -1,0 +1,16 @@
+body {
+  font-family: "Segoe UI", Tahoma, Arial, sans-serif;
+}
+.play-mark::after {
+  left: auto;
+  right: 24px;
+  transform: scaleX(-1);
+}
+.room-card ul {
+  padding-inline-start: 0;
+  padding-inline-end: 1.1rem;
+}
+.checkbox input {
+  margin-left: .45rem;
+  margin-right: 0;
+}

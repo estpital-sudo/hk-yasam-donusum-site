@@ -1,0 +1,289 @@
+{
+  "language": "tr",
+  "dir": "ltr",
+  "nav": {
+    "home": "Ana Sayfa",
+    "program": "Program",
+    "facility": "Tesis",
+    "rooms": "Odalar",
+    "activities": "Aktiviteler",
+    "daily": "Günlük Akış",
+    "stories": "Başarı Hikayeleri",
+    "international": "Uluslararası Misafirler",
+    "media": "Medya",
+    "books": "Kitaplar",
+    "faq": "SSS",
+    "contact": "İletişim"
+  },
+  "cta": {
+    "quiz": "Ön Değerlendirmeyi Başlat",
+    "quizShort": "Quiz Başlat",
+    "whatsapp": "WhatsApp’tan Bilgi Al",
+    "call": "Ara",
+    "facility": "Tesisi İncele",
+    "rooms": "Odaları İncele",
+    "contact": "Bilgi Al",
+    "home": "Ana Sayfaya Dön"
+  },
+  "meta": {
+    "home": "HK’da doğa içinde yatılı yaşam dönüşüm programı; egzersiz, beslenme düzeni, konaklama ve sosyal motivasyon aynı kampüs içinde planlanır.",
+    "program": "HK yatılı program yapısı, ön görüşmeden kamp içi takibe kadar kontrollü ve kişiye göre değişen bir süreç olarak anlatılır.",
+    "facility": "HK kampüsündeki havuz, hamam, sauna, spor salonu, sosyal alanlar ve doğa içi yaşam alanlarını keşfedin.",
+    "rooms": "HK’daki oda seçeneklerini, konaklama hissini ve ön görüşmede paylaşılan müsaitlik sürecini inceleyin.",
+    "activities": "Doğa yürüyüşleri, fitness, boot camp, havuz egzersizleri ve grup motivasyon aktiviteleri hakkında bilgi alın.",
+    "daily": "HK’da örnek günlük akış; hareket, beslenme, dinlenme, sosyal aktiviteler ve takip bloklarıyla anlatılır.",
+    "stories": "HK katılımcı hikayeleri kişisel deneyimler olarak kontrollü dille ve sonuçların değişebileceği notuyla sunulur.",
+    "international": "Yurt dışından gelen misafirler için Türkiye’de doğa içinde yatılı kamp deneyimi ve çok dilli ön bilgilendirme.",
+    "media": "HK foto galeri ve video galeri alanı; tesis, odalar, spor, doğa, etkinlikler ve hikayeler için filtrelenebilir medya.",
+    "books": "HK yayınları, dergi ve kitap içerikleri için editorial grid yapısı ve uzmanlık algısı odaklı tanıtım.",
+    "faq": "HK yatılı program, süre, sağlık uygunluğu, fiyatlandırma, odalar ve sonuç beklentileri hakkında sık sorulan sorular.",
+    "contact": "HK ekibiyle ön görüşme, WhatsApp, telefon ve kısa iletişim formu üzerinden bağlantı kurun."
+  },
+  "hero": {
+    "eyebrow": "Doğa içinde yatılı program",
+    "title": "Doğa içinde yatılı yaşam dönüşüm programı",
+    "body": "HK’da konaklama, egzersiz, beslenme düzeni, sosyal tesis, doğa aktiviteleri ve takip sistemi aynı kampüs içinde planlanır. Size uygun program süresini öğrenmek için kısa ön değerlendirmeyi tamamlayabilirsiniz.",
+    "imageAlt": "Doğa içinde HK kampüs yaşamı"
+  },
+  "sections": {
+    "experienceTitle": "HK deneyimi nedir?",
+    "audienceTitle": "Kimler için uygun?",
+    "timelineTitle": "Program nasıl işler?",
+    "atmosphereTitle": "Kamp atmosferi",
+    "facilityTitle": "Tesis ve sosyal alanlar",
+    "roomsTitle": "Odalar",
+    "activitiesTitle": "Egzersiz ve aktiviteler",
+    "storiesTitle": "Katılımcı hikayeleri",
+    "internationalTitle": "Türkiye’de doğa içinde yatılı kamp deneyimi",
+    "mediaTitle": "Medya",
+    "faqTitle": "Sık sorulan sorular",
+    "finalTitle": "Size uygun kamp süresini öğrenin",
+    "finalBody": "Kısa ön değerlendirmeyi tamamlayın. Ekibimiz hedefiniz, mevcut durumunuz ve planladığınız tarihe göre sizi bilgilendirsin."
+  },
+  "experience": [
+    [
+      "Yatılı kamp düzeni",
+      "Konaklama, günlük akış ve sosyal tesis aynı merkezde ilerler."
+    ],
+    [
+      "Hareket ve egzersiz programı",
+      "Egzersiz yoğunluğu kişinin seviyesine ve program planına göre şekillenir."
+    ],
+    [
+      "Beslenme düzeni ve takip",
+      "Kamp süresince düzen kurmaya yardımcı olan kontrollü bir yapı oluşturulur."
+    ],
+    [
+      "Sosyal motivasyon",
+      "Doğa, grup enerjisi ve kamp içi aktiviteler sürece eşlik eder."
+    ]
+  ],
+  "audience": [
+    "Kilo vermek isteyenler",
+    "Kendi başına düzen kurmakta zorlananlar",
+    "Kontrollü bir ortamda başlamak isteyenler",
+    "Spor ve beslenme alışkanlığı kazanmak isteyenler",
+    "Sosyal ve doğa içinde kamp deneyimi arayanlar"
+  ],
+  "timeline": [
+    "Ön görüşme",
+    "Giriş ve karşılama",
+    "Başlangıç değerlendirmesi",
+    "Günlük hareket ve beslenme düzeni",
+    "Kamp içi takip",
+    "Sosyal aktiviteler",
+    "Çıkış ve sonrası öneriler"
+  ],
+  "facility": [
+    [
+      "Kapalı yüzme havuzu",
+      "Hareket, dinlenme ve toparlanma hissini destekleyen sosyal tesis alanı."
+    ],
+    [
+      "Hamam ve sauna",
+      "Kamp temposu içinde rahatlama ve yenilenme için ayrılan alanlar."
+    ],
+    [
+      "Spor salonu",
+      "Aletli ve aletsiz egzersizlere uygun kapalı çalışma ortamı."
+    ],
+    [
+      "Sosyal alanlar",
+      "Kampın yalnızca egzersizden ibaret olmamasını sağlayan paylaşım alanları."
+    ],
+    [
+      "Doğa yürüyüş parkurları",
+      "Açık havada hareket ve motivasyon için kullanılan rota hissi."
+    ],
+    [
+      "Dinlenme alanları",
+      "Program temposu arasında sakinleşmek için planlanan köşeler."
+    ]
+  ],
+  "activities": [
+    [
+      "Kişiye özel egzersiz",
+      "Seviye ve hedefe göre değişen bireysel çalışma yapısı."
+    ],
+    [
+      "Fitness camp / boot camp",
+      "Grup enerjisini ve disiplinini kullanan hareket blokları."
+    ],
+    [
+      "Bireysel tıbbi antrenman",
+      "Özel durumlar için ön görüşme sonrası değerlendirilen kontrollü egzersiz yaklaşımı."
+    ],
+    [
+      "Doğa yürüyüşleri",
+      "Kampüs çevresindeki açık hava hareket deneyimi."
+    ],
+    [
+      "Havuz egzersizleri",
+      "Düşük darbeli hareket ihtiyacı olan günler için destekleyici seçenek."
+    ],
+    [
+      "Grup motivasyon aktiviteleri",
+      "Sosyal bağ, eğlence ve disiplin hissini birlikte taşıyan etkinlikler."
+    ]
+  ],
+  "dailyFlow": [
+    [
+      "Sabah hareketi",
+      "Güne seviye ve plana göre değişen hareket bloğuyla başlanabilir."
+    ],
+    [
+      "Kahvaltı ve beslenme düzeni",
+      "Öğünler kamp planı ve kişinin ihtiyacına göre program akışına yerleşir."
+    ],
+    [
+      "Egzersiz blokları",
+      "Gün içinde salon, açık hava veya grup çalışmaları yapılabilir."
+    ],
+    [
+      "Dinlenme ve sosyal zaman",
+      "Tempo, toparlanma ve sosyal motivasyon dengesi gözetilir."
+    ],
+    [
+      "Akşam programı",
+      "Günün kapanışı; yürüyüş, sohbet, etkinlik veya takip notlarıyla şekillenebilir."
+    ]
+  ],
+  "faq": [
+    [
+      "Program herkese aynı mı?",
+      "Hayır. Program yapısı ön görüşme, hedef, sağlık durumu, kalış süresi ve kişinin hareket seviyesine göre değerlendirilir."
+    ],
+    [
+      "Kaç gün kalmak gerekir?",
+      "7, 14, 21 ve 30 günlük seçenekler ön görüşmede konuşulabilir. Uygun süre kişiye göre değişir."
+    ],
+    [
+      "Spor geçmişim yoksa katılabilir miyim?",
+      "Spor geçmişi olmayan kişiler için de başlangıç seviyesi görüşmede değerlendirilir ve program yoğunluğu buna göre planlanır."
+    ],
+    [
+      "Sağlık problemi olanlar katılabilir mi?",
+      "Özel sağlık durumu olan kişilerin uygunluğu ön görüşmede ve gerekli bilgilendirme sonrasında değerlendirilir."
+    ],
+    [
+      "Günlük akış nasıl ilerler?",
+      "Hareket, beslenme, dinlenme ve sosyal aktivite bloklarıyla ilerler; akış kişiye ve sezona göre değişebilir."
+    ],
+    [
+      "Odalar nasıl?",
+      "Farklı oda tipleri vardır. Müsaitlik ve detaylar ön görüşmede paylaşılır; oda tercihi quizde sorulmaz."
+    ],
+    [
+      "Yurt dışından gelenler için süreç nasıl işler?",
+      "Çok dilli ön bilgilendirme yapılır; ulaşım, konaklama ve program detayları görüşmede netleşir."
+    ],
+    [
+      "Fiyat nasıl belirlenir?",
+      "Fiyat; kalış süresi, oda tipi, tarih ve program yapısı gibi değişkenlere göre ön görüşmede paylaşılır."
+    ],
+    [
+      "Ön değerlendirme sonrası ne olur?",
+      "Ekibimiz verdiğiniz bilgiler üzerinden sizi arar ve uygun program süreci hakkında bilgi verir."
+    ],
+    [
+      "Sonuçlar garanti mi?",
+      "Hayır. Sonuçlar kişinin sağlık geçmişi, kalış süresi, programa uyumu ve yaşam alışkanlıklarına göre değişebilir."
+    ]
+  ],
+  "quiz": {
+    "title": "60 saniyelik ön değerlendirme",
+    "intro": "Birkaç soruyu yanıtlayın. HK ekibi size uygun program süresi, kamp süreci ve detaylar hakkında bilgi vermek için sizinle iletişime geçsin.",
+    "progress": "Adım",
+    "back": "Geri",
+    "next": "İleri",
+    "submit": "Ön Değerlendirmeyi Gönder",
+    "close": "Kapat",
+    "required": "Bu alanı tamamlayın.",
+    "resultTitle": "Ön değerlendirmeniz alındı.",
+    "resultBody": "HK ekibi, hedefinize ve mevcut durumunuza göre size uygun program süresi, kamp süreci ve detaylar hakkında bilgi vermek için sizinle iletişime geçecektir.",
+    "whatsapp": "WhatsApp’tan Devam Et",
+    "home": "Ana Sayfaya Dön",
+    "bmiNote": "Bu bilgi yalnızca ön görüşme hazırlığına eklenir.",
+    "consent": "KVKK ve iletişim izni metnini okudum, iletişime geçilmesini kabul ediyorum.",
+    "steps": {
+      "goal": [
+        "Hedefiniz nedir?",
+        [
+          "Kilo vermek",
+          "Kondisyon kazanmak",
+          "Daha sağlıklı bir yaşam düzeni kurmak",
+          "Motivasyon ve disiplin kazanmak",
+          "Kontrollü bir başlangıç yapmak"
+        ]
+      ],
+      "duration": [
+        "Ne kadar süre ayırmayı düşünüyorsunuz?",
+        [
+          "7 gün",
+          "14 gün",
+          "21 gün",
+          "30 gün",
+          "Henüz emin değilim"
+        ]
+      ],
+      "metrics": "Yaş / boy / kilo",
+      "activity": [
+        "Günlük hareket seviyeniz nasıl?",
+        [
+          "Hareketsizim",
+          "Ara sıra yürüyüş yapıyorum",
+          "Düzenli spor yapıyorum",
+          "Kilo nedeniyle hareket etmekte zorlanıyorum"
+        ]
+      ],
+      "timing": [
+        "Ne zaman bilgi almak / katılmak istiyorsunuz?",
+        [
+          "Bu hafta",
+          "Bu ay",
+          "1-3 ay içinde",
+          "Sadece bilgi almak istiyorum"
+        ]
+      ],
+      "region": [
+        "Nereden katılmayı düşünüyorsunuz?",
+        [
+          "Türkiye",
+          "Avrupa",
+          "Orta Doğu",
+          "Diğer"
+        ]
+      ],
+      "contact": "İletişim bilgileri"
+    },
+    "labels": {
+      "age": "Yaş",
+      "height": "Boy (cm)",
+      "weight": "Kilo (kg)",
+      "name": "Ad soyad",
+      "phone": "Telefon / WhatsApp",
+      "city_country": "Ülke / şehir",
+      "preferred_language": "Dil tercihi"
+    }
+  }
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "title": "HK ana site",
+    "url": "https://hk.com.tr/",
+    "use": "Marka, ana menü ve genel konumlandırma referansı"
+  },
+  {
+    "title": "HK Performans Sosyal Tesis",
+    "url": "https://hk.com.tr/hk-performans-sosyal-tesis/",
+    "use": "Havuz, hamam, sauna, spor salonu ve sosyal alan başlıkları"
+  },
+  {
+    "title": "Aktivite ve Rekreatif Eğlenceler",
+    "url": "https://hk.com.tr/aktivite-ve-rekreatif-eglencelerimiz/",
+    "use": "Aktivite çeşitleri ve kamp atmosferi referansı"
+  },
+  {
+    "title": "36 farklı ülkeden katılımcı",
+    "url": "https://hk.com.tr/36-farkli-ulkeden-katilimci-hkyi-tercih-etti/",
+    "use": "Uluslararası misafirler sayfası için kaynak"
+  },
+  {
+    "title": "Odalarımız",
+    "url": "https://hk.com.tr/odalarimiz/",
+    "use": "Oda tipleri ve konaklama çerçevesi"
+  },
+  {
+    "title": "Dergi ve kitaplarımız",
+    "url": "https://hk.com.tr/dergi-ve-kitaplarimiz/",
+    "use": "Yayınlar sayfası için editorial grid referansı"
+  },
+  {
+    "title": "Video galeri",
+    "url": "https://hk.com.tr/video-galeri/",
+    "use": "Video kart başlıkları ve kategori fikri"
+  },
+  {
+    "title": "Ezgi başarı hikayesi",
+    "url": "https://hk.com.tr/zayiflayanlar/ezginin-3-ayda-30-kilo-zayiflama-basarisi/",
+    "use": "Başarı hikayesi özeti"
+  },
+  {
+    "title": "Ali Emir başarı hikayesi",
+    "url": "https://hk.com.tr/zayiflayanlar/ali-emir-31-kilo-zayifladi-ve-kaderini-degistirdi/",
+    "use": "Başarı hikayesi özeti"
+  },
+  {
+    "title": "Şükrü başarı hikayesi",
+    "url": "https://hk.com.tr/zayiflayanlar/sukru2-ayda-265-kilo-zayifladi-ve-kaderini-degistirdi/",
+    "use": "Başarı hikayesi özeti"
+  },
+  {
+    "title": "58 kilo verme hikayesi",
+    "url": "https://hk.com.tr/zayiflayanlar/zayiflama-kampinda-58-kilo-verme-basarisi/",
+    "use": "Başarı hikayeleri liste referansı"
+  },
+  {
+    "title": "YouTube resmi kanal",
+    "url": "https://www.youtube.com/@HKPerformansZayflamaKamp/videos",
+    "use": "İleride eklenecek resmi video embed ID alanları"
+  }
+]

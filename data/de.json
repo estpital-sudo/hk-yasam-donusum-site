@@ -1,0 +1,289 @@
+{
+  "language": "de",
+  "dir": "ltr",
+  "nav": {
+    "home": "Start",
+    "program": "Programm",
+    "facility": "Anlage",
+    "rooms": "Zimmer",
+    "activities": "Aktivitäten",
+    "daily": "Tagesablauf",
+    "stories": "Erfolgsgeschichten",
+    "international": "Internationale Gäste",
+    "media": "Medien",
+    "books": "Bücher",
+    "faq": "FAQ",
+    "contact": "Kontakt"
+  },
+  "cta": {
+    "quiz": "Voreinschätzung starten",
+    "quizShort": "Quiz starten",
+    "whatsapp": "Per WhatsApp anfragen",
+    "call": "Anrufen",
+    "facility": "Anlage ansehen",
+    "rooms": "Zimmer ansehen",
+    "contact": "Information erhalten",
+    "home": "Zur Startseite"
+  },
+  "meta": {
+    "home": "Ein strukturiertes Aufenthaltsprogramm für Bewegung, Ernährung und neue Gewohnheiten in der Natur.",
+    "program": "Wie das HK Aufenthaltsprogramm vom Vorgespräch bis zur Begleitung im Camp strukturiert ist.",
+    "facility": "Entdecken Sie Pool, Hamam, Sauna, Fitnessraum, soziale Bereiche und Naturflächen auf dem HK Campus.",
+    "rooms": "Zimmeroptionen bei HK und wie Verfügbarkeit im Vorgespräch geklärt wird.",
+    "activities": "Informationen zu Naturwanderungen, Fitness, Boot Camp, Poolübungen und Gruppenmotivation.",
+    "daily": "Beispielhafter Tagesablauf bei HK mit Bewegung, Mahlzeiten, Erholung, sozialen Aktivitäten und Begleitung.",
+    "stories": "Teilnehmergeschichten werden als persönliche Erfahrungen mit deutlichem Hinweis auf variable Ergebnisse gezeigt.",
+    "international": "Mehrsprachige Vorabinformationen für Gäste, die für ein Aufenthaltsprogramm in der Natur in die Türkei reisen.",
+    "media": "Foto- und Videogalerie für Anlage, Zimmer, Sport, Natur, Events und Geschichten.",
+    "books": "Editoriale Übersicht für HK Publikationen und Bücher mit Fokus auf Vertrauen und Kompetenz.",
+    "faq": "Häufige Fragen zu Programmdauer, Zimmern, Eignung, Preisen und Ergebnissen.",
+    "contact": "Kontaktieren Sie HK für ein Vorgespräch per WhatsApp, Telefon oder Kurzformular."
+  },
+  "hero": {
+    "eyebrow": "Aufenthaltsprogramm in der Natur",
+    "title": "Ein strukturiertes Aufenthaltsprogramm für Bewegung, Ernährung und neue Gewohnheiten",
+    "body": "Bei HK werden Unterkunft, Bewegung, Ernährungsrhythmus, soziale Bereiche, Naturaktivitäten und Begleitung auf einem Campus geplant. Mit der kurzen Voreinschätzung erfahren Sie, welche Programmdauer zu Ihnen passen kann.",
+    "imageAlt": "HK Campusleben in der Natur"
+  },
+  "sections": {
+    "experienceTitle": "Was ist die HK Erfahrung?",
+    "audienceTitle": "Für wen ist es geeignet?",
+    "timelineTitle": "Wie das Programm abläuft",
+    "atmosphereTitle": "Camp-Atmosphäre",
+    "facilityTitle": "Anlage und soziale Bereiche",
+    "roomsTitle": "Zimmer",
+    "activitiesTitle": "Bewegung und Aktivitäten",
+    "storiesTitle": "Teilnehmergeschichten",
+    "internationalTitle": "Aufenthaltsprogramm in der Türkei",
+    "mediaTitle": "Medien",
+    "faqTitle": "Häufige Fragen",
+    "finalTitle": "Erfahren Sie, welche Dauer zu Ihnen passen kann",
+    "finalBody": "Starten Sie die kurze Voreinschätzung. Unser Team informiert Sie nach Ziel, Ausgangssituation und geplantem Zeitraum."
+  },
+  "experience": [
+    [
+      "Aufenthaltsstruktur",
+      "Unterkunft, Tagesrhythmus und soziale Bereiche befinden sich in einem Zentrum."
+    ],
+    [
+      "Bewegung und Training",
+      "Die Intensität orientiert sich an Niveau, Ziel und Programmplanung."
+    ],
+    [
+      "Ernährungsrhythmus und Begleitung",
+      "Der Aufenthalt unterstützt eine klarere Struktur während des Programms."
+    ],
+    [
+      "Soziale Motivation",
+      "Natur, Gruppendynamik und Camp-Aktivitäten begleiten den Prozess."
+    ]
+  ],
+  "audience": [
+    "Menschen mit Gewichtsreduktionsziel",
+    "Menschen, denen Routine allein schwerfällt",
+    "Menschen, die kontrolliert starten möchten",
+    "Menschen, die Bewegungs- und Ernährungsgewohnheiten aufbauen wollen",
+    "Menschen, die ein soziales Camp in der Natur suchen"
+  ],
+  "timeline": [
+    "Vorgespräch",
+    "Ankunft und Begrüßung",
+    "Erste Einschätzung",
+    "Täglicher Bewegungs- und Ernährungsrhythmus",
+    "Begleitung im Camp",
+    "Soziale Aktivitäten",
+    "Abreise und Empfehlungen"
+  ],
+  "facility": [
+    [
+      "Hallenbad",
+      "Ein sozialer Bereich für Bewegung, Ruhe und Regeneration."
+    ],
+    [
+      "Hamam und Sauna",
+      "Räume für Entspannung innerhalb des Camp-Rhythmus."
+    ],
+    [
+      "Fitnessraum",
+      "Innenbereich für Geräte- und Körpergewichtstraining."
+    ],
+    [
+      "Soziale Bereiche",
+      "Gemeinsame Flächen, die das Camp breiter als Training allein machen."
+    ],
+    [
+      "Naturwege",
+      "Routen im Freien für Bewegung und Motivation."
+    ],
+    [
+      "Ruhebereiche",
+      "Ruhige Ecken zur Erholung zwischen den Programmblöcken."
+    ]
+  ],
+  "activities": [
+    [
+      "Personalisiertes Training",
+      "Individuelle Einheiten nach Niveau und Ziel."
+    ],
+    [
+      "Fitness Camp / Boot Camp",
+      "Bewegungsblöcke mit Gruppendynamik und Struktur."
+    ],
+    [
+      "Individuelles medizinisches Training",
+      "Kontrollierter Ansatz für besondere Bedürfnisse nach Vorgespräch."
+    ],
+    [
+      "Naturwanderungen",
+      "Bewegung im Freien rund um den Campus."
+    ],
+    [
+      "Poolübungen",
+      "Unterstützende Option für Tage mit geringerer Belastung."
+    ],
+    [
+      "Gruppenmotivation",
+      "Aktivitäten mit sozialer Verbindung, Freude und Struktur."
+    ]
+  ],
+  "dailyFlow": [
+    [
+      "Morgenbewegung",
+      "Der Tag kann mit einem angepassten Bewegungsblock starten."
+    ],
+    [
+      "Frühstück und Rhythmus",
+      "Mahlzeiten werden entsprechend dem Ablauf eingeplant."
+    ],
+    [
+      "Trainingsblöcke",
+      "Innen-, Außen- oder Gruppeneinheiten können Teil des Tages sein."
+    ],
+    [
+      "Ruhe und soziale Zeit",
+      "Das Tempo balanciert Erholung und soziale Motivation."
+    ],
+    [
+      "Abendprogramm",
+      "Der Tag kann mit Spaziergang, Gespräch, Aktivität oder Notizen enden."
+    ]
+  ],
+  "faq": [
+    [
+      "Ist das Programm für alle gleich?",
+      "Nein. Die Struktur wird nach Vorgespräch, Ziel, Gesundheit, Aufenthaltsdauer und Bewegungsniveau bewertet."
+    ],
+    [
+      "Wie viele Tage sollte man bleiben?",
+      "7, 14, 21 und 30 Tage können besprochen werden. Die passende Dauer ist individuell."
+    ],
+    [
+      "Kann ich ohne Sporterfahrung teilnehmen?",
+      "Ja, das Startniveau wird im Vorgespräch geprüft und die Intensität entsprechend geplant."
+    ],
+    [
+      "Können Menschen mit gesundheitlichen Problemen teilnehmen?",
+      "Besondere Gesundheitssituationen werden im Vorgespräch nach notwendiger Information bewertet."
+    ],
+    [
+      "Wie läuft ein Tag ab?",
+      "Mit Bewegung, Ernährung, Ruhe und sozialen Aktivitäten; der Ablauf kann variieren."
+    ],
+    [
+      "Wie sind die Zimmer?",
+      "Es gibt verschiedene Zimmertypen. Verfügbarkeit und Details werden im Vorgespräch geteilt."
+    ],
+    [
+      "Wie läuft es für internationale Gäste?",
+      "Mehrsprachige Vorabinformation; Transport, Unterkunft und Details werden im Gespräch geklärt."
+    ],
+    [
+      "Wie wird der Preis bestimmt?",
+      "Der Preis hängt von Aufenthaltsdauer, Zimmer, Datum und Programmstruktur ab und wird im Gespräch geteilt."
+    ],
+    [
+      "Was passiert nach der Voreinschätzung?",
+      "Unser Team prüft Ihre Angaben und ruft Sie zum passenden Ablauf an."
+    ],
+    [
+      "Sind Ergebnisse garantiert?",
+      "Nein. Ergebnisse variieren je nach Gesundheitsgeschichte, Aufenthaltsdauer, Umsetzung und Lebensgewohnheiten."
+    ]
+  ],
+  "quiz": {
+    "title": "60 Sekunden Voreinschätzung",
+    "intro": "Beantworten Sie einige Fragen. Das HK Team kann Sie zu Programmdauer, Ablauf und Details kontaktieren.",
+    "progress": "Schritt",
+    "back": "Zurück",
+    "next": "Weiter",
+    "submit": "Voreinschätzung senden",
+    "close": "Schließen",
+    "required": "Bitte füllen Sie dieses Feld aus.",
+    "resultTitle": "Ihre Voreinschätzung wurde erhalten.",
+    "resultBody": "Das HK Team wird Sie kontaktieren und Informationen zu Programmdauer, Ablauf und Details teilen.",
+    "whatsapp": "Per WhatsApp fortfahren",
+    "home": "Zur Startseite",
+    "bmiNote": "Diese Information wird nur für die Vorbereitung des Vorgesprächs genutzt.",
+    "consent": "Ich habe den Datenschutz- und Kommunikationstext gelesen und stimme der Kontaktaufnahme zu.",
+    "steps": {
+      "goal": [
+        "Was ist Ihr Ziel?",
+        [
+          "Gewicht reduzieren",
+          "Kondition verbessern",
+          "Gesündere Routine aufbauen",
+          "Motivation und Disziplin gewinnen",
+          "Kontrolliert starten"
+        ]
+      ],
+      "duration": [
+        "Wie viel Zeit planen Sie ein?",
+        [
+          "7 Tage",
+          "14 Tage",
+          "21 Tage",
+          "30 Tage",
+          "Noch unsicher"
+        ]
+      ],
+      "metrics": "Alter / Größe / Gewicht",
+      "activity": [
+        "Wie ist Ihr tägliches Aktivitätsniveau?",
+        [
+          "Wenig aktiv",
+          "Gelegentliche Spaziergänge",
+          "Regelmäßiger Sport",
+          "Bewegung fällt wegen Gewicht schwer"
+        ]
+      ],
+      "timing": [
+        "Wann möchten Sie Informationen / teilnehmen?",
+        [
+          "Diese Woche",
+          "Diesen Monat",
+          "In 1-3 Monaten",
+          "Nur Informationen"
+        ]
+      ],
+      "region": [
+        "Von wo reisen Sie an?",
+        [
+          "Türkei",
+          "Europa",
+          "Naher Osten",
+          "Andere"
+        ]
+      ],
+      "contact": "Kontaktdaten"
+    },
+    "labels": {
+      "age": "Alter",
+      "height": "Größe (cm)",
+      "weight": "Gewicht (kg)",
+      "name": "Vor- und Nachname",
+      "phone": "Telefon / WhatsApp",
+      "city_country": "Land / Stadt",
+      "preferred_language": "Bevorzugte Sprache"
+    }
+  }
+}

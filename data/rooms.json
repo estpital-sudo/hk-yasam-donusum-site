@@ -1,0 +1,236 @@
+[
+  {
+    "key": "standard",
+    "slot": "room_standard",
+    "name": {
+      "tr": "Standart Oda",
+      "en": "Standard Room",
+      "de": "Standardzimmer",
+      "ar": "غرفة عادية"
+    },
+    "source": "https://hk.com.tr/oda/standart-oda/",
+    "features": {
+      "tr": [
+        "Banyo ve WC",
+        "Sade konaklama düzeni",
+        "Program sürecine yakın yerleşim"
+      ],
+      "en": [
+        "Bathroom and WC",
+        "Simple residential setup",
+        "Close to the program flow"
+      ],
+      "de": [
+        "Bad und WC",
+        "Schlichte Aufenthaltsstruktur",
+        "Nahe am Programmablauf"
+      ],
+      "ar": [
+        "حمام ودورة مياه",
+        "إقامة بسيطة ومريحة",
+        "قريبة من مسار البرنامج"
+      ]
+    },
+    "description": {
+      "tr": "Kamp süresince temel konaklama konforu isteyen misafirler için sade ve işlevsel bir oda seçeneği.",
+      "en": "A simple, practical room option for guests who want essential comfort throughout the stay.",
+      "de": "Eine schlichte und praktische Zimmeroption für Gäste, die während des Aufenthalts grundlegenden Komfort wünschen.",
+      "ar": "خيار بسيط وعملي للضيوف الذين يرغبون في راحة أساسية طوال مدة الإقامة."
+    }
+  },
+  {
+    "key": "comfort",
+    "slot": "room_comfort_plus",
+    "name": {
+      "tr": "Comfort Plus / Standart Plus",
+      "en": "Comfort Plus Room",
+      "de": "Comfort Plus Zimmer",
+      "ar": "غرفة كومفورت بلس"
+    },
+    "source": "https://hk.com.tr/oda/standart-plus-oda/",
+    "features": {
+      "tr": [
+        "Daha ferah plan",
+        "Dinlenme odaklı mobilya",
+        "Günlük akışa pratik erişim"
+      ],
+      "en": [
+        "More spacious layout",
+        "Rest-focused furniture",
+        "Practical access to daily routines"
+      ],
+      "de": [
+        "Geräumigere Aufteilung",
+        "Möblierung für Erholung",
+        "Praktischer Zugang zum Tagesablauf"
+      ],
+      "ar": [
+        "مساحة أوسع",
+        "أثاث مريح للراحة",
+        "وصول عملي للبرنامج اليومي"
+      ]
+    },
+    "description": {
+      "tr": "Biraz daha ferah bir konaklama deneyimi arayan misafirler için dengeli bir seçenek.",
+      "en": "A balanced choice for guests looking for a slightly more spacious stay.",
+      "de": "Eine ausgewogene Wahl für Gäste, die etwas mehr Raum wünschen.",
+      "ar": "خيار متوازن للضيوف الذين يفضلون مساحة أوسع قليلا."
+    }
+  },
+  {
+    "key": "suite",
+    "slot": "room_suite",
+    "name": {
+      "tr": "Suit Oda",
+      "en": "Suite Room",
+      "de": "Suite",
+      "ar": "جناح"
+    },
+    "source": "https://hk.com.tr/oda/suit-oda-11/",
+    "features": {
+      "tr": [
+        "Ayrı oturma hissi",
+        "Uzun kalışa uygun plan",
+        "Daha kişisel alan"
+      ],
+      "en": [
+        "Separate lounge feeling",
+        "Suited for longer stays",
+        "More personal space"
+      ],
+      "de": [
+        "Separater Wohnbereichscharakter",
+        "Geeignet für längere Aufenthalte",
+        "Mehr persönlicher Raum"
+      ],
+      "ar": [
+        "إحساس بمساحة جلوس منفصلة",
+        "مناسب للإقامات الأطول",
+        "مساحة شخصية أكبر"
+      ]
+    },
+    "description": {
+      "tr": "Uzun program süresi planlayan veya daha geniş kişisel alan isteyen misafirler için.",
+      "en": "For guests planning a longer program or preferring more personal space.",
+      "de": "Für Gäste mit längerer Programmdauer oder Wunsch nach mehr persönlichem Raum.",
+      "ar": "للضيوف الذين يخططون لمدة أطول أو يفضلون مساحة شخصية أكبر."
+    }
+  },
+  {
+    "key": "terrace",
+    "slot": "room_terrace",
+    "name": {
+      "tr": "Özel Teras Katı",
+      "en": "Private Terrace Floor",
+      "de": "Private Terrassenetage",
+      "ar": "طابق تراس خاص"
+    },
+    "source": "https://hk.com.tr/oda/ozel-teras-kati/",
+    "features": {
+      "tr": [
+        "Teras kullanımı",
+        "Daha sakin konaklama hissi",
+        "Ön görüşmede müsaitlik kontrolü"
+      ],
+      "en": [
+        "Terrace use",
+        "A calmer stay feeling",
+        "Availability checked during consultation"
+      ],
+      "de": [
+        "Terrassennutzung",
+        "Ruhigeres Aufenthaltsgefühl",
+        "Verfügbarkeit im Vorgespräch"
+      ],
+      "ar": [
+        "استخدام التراس",
+        "إحساس أكثر هدوءا بالإقامة",
+        "تأكيد التوفر في الاستشارة"
+      ]
+    },
+    "description": {
+      "tr": "Daha sakin ve ayrışmış bir oda deneyimi isteyen misafirler için ön görüşmede değerlendirilir.",
+      "en": "Considered during consultation for guests who prefer a calmer, more private room experience.",
+      "de": "Wird im Vorgespräch für Gäste geprüft, die eine ruhigere und privatere Zimmererfahrung wünschen.",
+      "ar": "يتم تقييمه في الاستشارة للضيوف الذين يفضلون تجربة أكثر خصوصية وهدوءا."
+    }
+  },
+  {
+    "key": "family",
+    "slot": "room_family",
+    "name": {
+      "tr": "Delux Aile Odası",
+      "en": "Deluxe Family Room",
+      "de": "Deluxe Familienzimmer",
+      "ar": "غرفة عائلية ديلوكس"
+    },
+    "source": "https://hk.com.tr/oda/delux-oda-aile-odasi-21/",
+    "features": {
+      "tr": [
+        "Aile veya birlikte gelen misafirler",
+        "Daha geniş kullanım",
+        "Ön görüşmede kişi sayısı netleşir"
+      ],
+      "en": [
+        "For families or guests arriving together",
+        "Larger usable area",
+        "Guest count clarified in consultation"
+      ],
+      "de": [
+        "Für Familien oder gemeinsam reisende Gäste",
+        "Größere Nutzfläche",
+        "Personenzahl im Vorgespräch"
+      ],
+      "ar": [
+        "للعائلات أو الضيوف القادمين معا",
+        "مساحة استخدام أكبر",
+        "تحديد عدد الأشخاص في الاستشارة"
+      ]
+    },
+    "description": {
+      "tr": "Aile veya yakınlarıyla birlikte programa katılmak isteyen misafirler için planlanabilir.",
+      "en": "Can be planned for guests joining the program with family members or companions.",
+      "de": "Kann für Gäste geplant werden, die mit Familie oder Begleitung teilnehmen.",
+      "ar": "يمكن ترتيبه للضيوف المشاركين مع العائلة أو المرافقين."
+    }
+  },
+  {
+    "key": "bungalow",
+    "slot": "room_bungalow",
+    "name": {
+      "tr": "Bungalow / Ağaç Ev",
+      "en": "Bungalow / Wooden House",
+      "de": "Bungalow / Holzhaus",
+      "ar": "بنغل / بيت خشبي"
+    },
+    "source": "https://hk.com.tr/oda/bungalow-agac-ev-11-40-m2/",
+    "features": {
+      "tr": [
+        "Doğaya yakın konaklama",
+        "Ayrışmış oda hissi",
+        "Müsaitlik ön görüşmede paylaşılır"
+      ],
+      "en": [
+        "Closer to nature",
+        "More detached room feeling",
+        "Availability shared during consultation"
+      ],
+      "de": [
+        "Naturnähere Unterkunft",
+        "Eigenständigeres Zimmergefühl",
+        "Verfügbarkeit im Vorgespräch"
+      ],
+      "ar": [
+        "إقامة أقرب إلى الطبيعة",
+        "إحساس أكثر استقلالية",
+        "تتم مشاركة التوفر في الاستشارة"
+      ]
+    },
+    "description": {
+      "tr": "Doğa içinde daha ayrıcalıklı bir konaklama hissi arayan misafirler için öne çıkan oda tipi.",
+      "en": "A prominent option for guests seeking a more nature-connected stay.",
+      "de": "Eine besondere Option für Gäste, die eine naturnähere Unterkunft wünschen.",
+      "ar": "خيار بارز للضيوف الباحثين عن إقامة أقرب إلى الطبيعة."
+    }
+  }
+]

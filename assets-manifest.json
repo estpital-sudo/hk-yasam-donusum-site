@@ -1,0 +1,98 @@
+[
+  {
+    "slot": "hero_main",
+    "needed_image": "Drone veya geniş açı kampüs görüntüsü",
+    "source_suggestion": "Resmi kampüs çekimi veya YouTube drone tanıtımı",
+    "file_path": "assets/img/hero/hero-campus.webp",
+    "alt_tr": "Doğa içinde HK kampüsü",
+    "status": "placeholder"
+  },
+  {
+    "slot": "facility_pool",
+    "needed_image": "Kapalı havuz ve spa alanı",
+    "source_suggestion": "Tesis ziyaretinde yatay fotoğraf",
+    "file_path": "assets/img/facility/indoor-pool.webp",
+    "alt_tr": "HK kapalı yüzme havuzu",
+    "status": "placeholder"
+  },
+  {
+    "slot": "room_standard",
+    "needed_image": "Standart oda geniş açı",
+    "source_suggestion": "Tesis ziyareti oda çekimi",
+    "file_path": "assets/img/rooms/standard-room.webp",
+    "alt_tr": "HK standart oda",
+    "status": "placeholder"
+  },
+  {
+    "slot": "room_comfort_plus",
+    "needed_image": "Comfort Plus oda ve dinlenme alanı",
+    "source_suggestion": "Tesis ziyareti oda çekimi",
+    "file_path": "assets/img/rooms/comfort-plus-room.webp",
+    "alt_tr": "HK Comfort Plus oda",
+    "status": "placeholder"
+  },
+  {
+    "slot": "room_suite",
+    "needed_image": "Suit oda oturma bölümü",
+    "source_suggestion": "Tesis ziyareti oda çekimi",
+    "file_path": "assets/img/rooms/suite-room.webp",
+    "alt_tr": "HK suit oda",
+    "status": "placeholder"
+  },
+  {
+    "slot": "room_terrace",
+    "needed_image": "Özel teras katı",
+    "source_suggestion": "Teras ve oda detay çekimi",
+    "file_path": "assets/img/rooms/terrace-room.webp",
+    "alt_tr": "HK özel teras katı",
+    "status": "placeholder"
+  },
+  {
+    "slot": "room_family",
+    "needed_image": "Delux aile odası",
+    "source_suggestion": "Geniş açı aile odası çekimi",
+    "file_path": "assets/img/rooms/family-room.webp",
+    "alt_tr": "HK delux aile odası",
+    "status": "placeholder"
+  },
+  {
+    "slot": "room_bungalow",
+    "needed_image": "Bungalow veya ağaç ev dış görünüm",
+    "source_suggestion": "Dış cephe ve iç mekan çekimi",
+    "file_path": "assets/img/rooms/bungalow.webp",
+    "alt_tr": "HK bungalow ağaç ev",
+    "status": "placeholder"
+  },
+  {
+    "slot": "activity_group",
+    "needed_image": "Grup egzersizi veya yürüyüş",
+    "source_suggestion": "İzinli katılımcılarla doğal aktivite çekimi",
+    "file_path": "assets/img/activities/group-exercise.webp",
+    "alt_tr": "HK grup egzersizi",
+    "status": "placeholder"
+  },
+  {
+    "slot": "story_portrait",
+    "needed_image": "İzinli katılımcı hikayesi görseli",
+    "source_suggestion": "Başarı hikayesi için yazılı izinli çekim",
+    "file_path": "assets/img/stories/story-portrait.webp",
+    "alt_tr": "HK katılımcı hikayesi",
+    "status": "placeholder"
+  },
+  {
+    "slot": "book_cover",
+    "needed_image": "Kitap veya dergi kapakları",
+    "source_suggestion": "Mevcut yayın kapaklarının yüksek çözünürlüklü dosyaları",
+    "file_path": "assets/img/books/publications.webp",
+    "alt_tr": "HK yayınları",
+    "status": "placeholder"
+  },
+  {
+    "slot": "video_thumbnail",
+    "needed_image": "Resmi video thumbnail görseli",
+    "source_suggestion": "YouTube thumbnail veya özel kapak görseli",
+    "file_path": "assets/img/video/video-thumbnail.webp",
+    "alt_tr": "HK video tanıtım görseli",
+    "status": "placeholder"
+  }
+]
