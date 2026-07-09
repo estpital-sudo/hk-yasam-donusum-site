@@ -1,74 +1,57 @@
 [
   {
-    "key": "campus-drone",
-    "category": "facility",
-    "title": {
-      "tr": "Kampüs ve doğa görüntüleri",
-      "en": "Campus and nature footage",
-      "de": "Campus- und Naturaufnahmen",
-      "ar": "لقطات الحرم والطبيعة"
-    },
-    "embed_id": "",
-    "thumbnail": "assets/img/placeholders/video-thumb.svg"
+    "id": "hk-campus-main",
+    "youtubeId": "ficwHyxnK-E",
+    "title": "HK Kampüs Tanıtımı",
+    "category": "tesis",
+    "page": "home",
+    "description": "HK kampüs atmosferi, sosyal alanlar ve yatılı program deneyimi.",
+    "featured": true,
+    "language": "tr",
+    "sourceUrl": "https://www.youtube.com/watch?v=ficwHyxnK-E"
   },
   {
-    "key": "success-stories",
-    "category": "stories",
-    "title": {
-      "tr": "Katılımcı hikayeleri",
-      "en": "Participant stories",
-      "de": "Teilnehmergeschichten",
-      "ar": "قصص المشاركين"
-    },
-    "embed_id": "",
-    "thumbnail": "assets/img/placeholders/video-thumb.svg"
+    "id": "hk-room-tour",
+    "youtubeId": "",
+    "title": "Oda Tanıtımları",
+    "category": "odalar",
+    "page": "media",
+    "description": "Konaklama seçenekleri ve oda atmosferi için video alanı.",
+    "featured": false,
+    "language": "tr",
+    "sourceUrl": ""
   },
   {
-    "key": "room-tour",
-    "category": "rooms",
-    "title": {
-      "tr": "Oda tanıtımları",
-      "en": "Room tours",
-      "de": "Zimmervorstellungen",
-      "ar": "جولات الغرف"
-    },
-    "embed_id": "",
-    "thumbnail": "assets/img/placeholders/video-thumb.svg"
+    "id": "hk-participant-experiences",
+    "youtubeId": "",
+    "title": "Katılımcı Deneyimleri",
+    "category": "katilimci-deneyimleri",
+    "page": "success-stories",
+    "description": "Katılımcıların kişisel kamp deneyimleri için yönetilebilir video alanı.",
+    "featured": false,
+    "language": "tr",
+    "sourceUrl": ""
   },
   {
-    "key": "step-festival",
-    "category": "events",
-    "title": {
-      "tr": "Adım festivali ve motivasyon",
-      "en": "Step festival and motivation",
-      "de": "Schritt-Event und Motivation",
-      "ar": "فعالية الخطوات والتحفيز"
-    },
-    "embed_id": "",
-    "thumbnail": "assets/img/placeholders/video-thumb.svg"
+    "id": "hk-sport-activities",
+    "youtubeId": "",
+    "title": "Spor ve Aktiviteler",
+    "category": "spor-aktiviteler",
+    "page": "media",
+    "description": "Günlük hareket, spor ve kamp içi aktivite videoları için alan.",
+    "featured": false,
+    "language": "tr",
+    "sourceUrl": ""
   },
   {
-    "key": "fitness",
-    "category": "sport",
-    "title": {
-      "tr": "Spor salonu ve grup egzersizi",
-      "en": "Gym and group exercise",
-      "de": "Fitnessraum und Gruppentraining",
-      "ar": "النادي والتمارين الجماعية"
-    },
-    "embed_id": "",
-    "thumbnail": "assets/img/placeholders/video-thumb.svg"
-  },
-  {
-    "key": "nature-walks",
-    "category": "nature",
-    "title": {
-      "tr": "Doğa yürüyüşleri",
-      "en": "Nature walks",
-      "de": "Naturwanderungen",
-      "ar": "المشي في الطبيعة"
-    },
-    "embed_id": "",
-    "thumbnail": "assets/img/placeholders/video-thumb.svg"
+    "id": "hk-camp-atmosphere",
+    "youtubeId": "",
+    "title": "Kamp Atmosferi",
+    "category": "kamp-atmosferi",
+    "page": "media",
+    "description": "Doğa, sosyal alanlar ve kamp ritmini gösteren video alanı.",
+    "featured": false,
+    "language": "tr",
+    "sourceUrl": ""
   }
 ]

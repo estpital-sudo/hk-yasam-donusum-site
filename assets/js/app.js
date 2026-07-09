@@ -78,10 +78,18 @@
       });
     });
 
+    document.querySelectorAll(".video-card").forEach((card) => {
+      const id = card.dataset.youtubeId || card.dataset.videoId;
+      const image = card.querySelector(".video-thumb img");
+      if (id && image && !image.dataset.staticThumb) {
+        image.src = "https://img.youtube.com/vi/" + encodeURIComponent(id) + "/hqdefault.jpg";
+      }
+    });
+
     document.querySelectorAll(".video-thumb").forEach((button) => {
       button.addEventListener("click", () => {
         const card = button.closest(".video-card");
-        const id = card?.dataset.videoId;
+        const id = card?.dataset.youtubeId || card?.dataset.videoId;
         const title = card?.querySelector("h3")?.textContent || "HK video";
         window.HKTracking?.content?.("hk_video_play_click", { video_title: title, has_embed: Boolean(id) });
         if (!card || card.dataset.loaded === "true") return;
@@ -92,9 +100,11 @@
         iframe.allow = "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share";
         iframe.allowFullscreen = true;
         iframe.loading = "lazy";
+        iframe.referrerPolicy = "strict-origin-when-cross-origin";
         iframe.style.width = "100%";
         iframe.style.aspectRatio = "16 / 9";
         iframe.style.border = "0";
+        iframe.style.borderRadius = "var(--radius)";
         button.replaceWith(iframe);
         card.dataset.loaded = "true";
       });
