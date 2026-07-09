@@ -154,6 +154,17 @@
     if (document.body.dataset.page === "rooms") window.HKTracking?.content?.("hk_room_view");
   }
 
+  function setupCinematicScenes() {
+    const scenes = document.querySelectorAll("[data-cinema-scene]");
+    if (!scenes.length || !("IntersectionObserver" in window)) return;
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach((entry) => {
+        entry.target.classList.toggle("is-visible", entry.isIntersecting);
+      });
+    }, { threshold: 0.38 });
+    scenes.forEach((scene) => observer.observe(scene));
+  }
+
   document.addEventListener("DOMContentLoaded", () => {
     setupHeader();
     setupContactLinks();
@@ -162,6 +173,7 @@
     setupMedia();
     setupContactForm();
     setupContentTracking();
+    setupCinematicScenes();
     document.documentElement.style.setProperty("--hk-base-path", '"' + basePath + '"');
   });
 })();
